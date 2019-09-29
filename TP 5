@@ -1,0 +1,20 @@
+{
+	"Home":{ "name" : "Nurul Fitria Insani", "NIM" : "1303172043", "Kelas" : "IT-41-01" }
+	},
+
+	{"About" : {"Saya adalah wanita berumur 20thn, seorang anak terakhir dari empat bersaudara yang menyukai warna nude. Tinggi saya 160cm dan berat badan 50kg, saya lahir di kota Bandung."}
+	},
+
+	{"Hobbies" : ["Zumba", "Eat", "Makeup", "Sing", "Watch Movie"]
+	},
+
+	{"Skills" : ["Fashion", "Makeup", "IT solution", "Bernyanyi"]
+	},
+
+	{"Education" : ["SDN Baranangsiang Indah (2010)", "SMPN 1 Bandung (2013)", "SMAN 1 Baleendah (2016)"]
+	},
+
+	{"Experience" : ["Presenter","Dance Competition", "Lomba KTI"]
+	}
+
+}
